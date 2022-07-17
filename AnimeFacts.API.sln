@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeFacts.API", "AnimeFacts.API\AnimeFacts.API.csproj", "{03C11995-A144-4961-B7AC-239123DA5414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeFacts.Abstractions", "AnimeFacts.Abstractions\AnimeFacts.Abstractions.csproj", "{260A4B4D-D915-4C37-8671-CCECEC35447B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C11995-A144-4961-B7AC-239123DA5414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C11995-A144-4961-B7AC-239123DA5414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C11995-A144-4961-B7AC-239123DA5414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C11995-A144-4961-B7AC-239123DA5414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260A4B4D-D915-4C37-8671-CCECEC35447B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260A4B4D-D915-4C37-8671-CCECEC35447B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260A4B4D-D915-4C37-8671-CCECEC35447B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260A4B4D-D915-4C37-8671-CCECEC35447B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3834F45-BE8F-4C00-A95E-5587F9A46502}
+	EndGlobalSection
+EndGlobal
